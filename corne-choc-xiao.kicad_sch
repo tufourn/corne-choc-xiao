@@ -2414,7 +2414,7 @@
   (symbol (lib_id "Switch:SW_SPDT") (at 50.8 134.62 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 4b050c10-5eaf-4a86-aad3-0ea87beae9d7)
-    (property "Reference" "SW22" (at 50.8 127 0)
+    (property "Reference" "S1" (at 50.8 127 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_SPDT" (at 50.8 129.54 0)
@@ -2432,7 +2432,7 @@
     (instances
       (project "corne-choc-xiao"
         (path "/6780a9f7-ba75-484b-b2f8-dc6d7b20e867"
-          (reference "SW22") (unit 1)
+          (reference "S1") (unit 1)
         )
       )
     )

@@ -24,6 +24,7 @@ corne-choc-xiao-gerbers
 *.dsn
 *.ses
 
-# Exported BOM files
-*.xml
+# BOM files
+ibom.config.ini
+* .xml
 *.csv

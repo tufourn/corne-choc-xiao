@@ -7,8 +7,8 @@
   (paper "A4")
   (title_block
     (title "corne-xiao")
-    (date "2023-06-12")
-    (rev "1.0")
+    (date "2023-06-27")
+    (rev "1.1")
   )
 
   (layers
@@ -3621,7 +3621,7 @@
     (property "ki_keywords" "switch single-pole double-throw spdt ON-ON")
     (path "/4b050c10-5eaf-4a86-aad3-0ea87beae9d7")
     (attr smd)
-    (fp_text reference "SW22" (at 8 5.2 90) (layer "F.Fab") hide
+    (fp_text reference "S1" (at 8 5.2 90) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp c17841ac-ceba-4177-b1c4-88805a80c3ec)
     )
@@ -4088,7 +4088,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp bbb7ee0c-b659-46d5-8646-636a44432906)
     )
-    (fp_text value "2.7k" (at 0 1.43) (layer "F.Fab")
+    (fp_text value "1k" (at 0 1.43) (layer "F.Fab")
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 63fc2854-332a-4f13-a769-f69493874058)
     )
@@ -4334,7 +4334,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp fb3b3a57-cfb6-4400-a026-3b8e12320bd9)
     )
-    (fp_text value "330R" (at 0 1.43 90) (layer "F.Fab")
+    (fp_text value "100R" (at 0 1.43 90) (layer "F.Fab")
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 76010998-bcf4-47f2-b4ea-cb3078c836c0)
     )
