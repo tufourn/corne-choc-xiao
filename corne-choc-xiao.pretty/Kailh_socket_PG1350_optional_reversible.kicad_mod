@@ -176,4 +176,19 @@
   (pad "2" thru_hole circle (at -5 3.8) (size 2.032 2.032) (drill 1.27) (layers "*.Cu" "*.Mask") (tstamp dff00d49-9d28-435f-8943-1b6c2dbfddbe))
   (pad "2" thru_hole circle (at 5 3.8) (size 2.032 2.032) (drill 1.27) (layers "*.Cu" "*.Mask") (tstamp a63ba943-5bcc-47b9-8f35-a3cd22b6ffc1))
   (pad "2" smd rect (at 8.275 -3.75) (size 2.6 2.6) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp a8938eb3-3684-4c4a-a024-b45300ca3883))
+  (model "${KIPRJMOD}/corne-choc-xiao.pretty/Kailh LP Choc Burnt Orange.STEP"
+    (offset (xyz 0 0 2.5))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 90))
+  )
+  (model "${KIPRJMOD}/corne-choc-xiao.pretty/PG1350-socket.STEP"
+    (offset (xyz 10 6 -1.5))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 0))
+  )
+  (model "${KIPRJMOD}/corne-choc-xiao.pretty/Kailh LP Choc PC Keycap.step"
+    (offset (xyz 0 0 1.5))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
