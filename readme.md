@@ -1,6 +1,6 @@
 # Choc-spaced Corne keyboard with XIAO BLE and LIR2032
 * Gerbers: [Gerbers](https://github.com/tufourn/corne-choc-xiao/blob/hotswap/corne-hotswap.zip?raw=true)
-* Interactive bill of materials: [iBOM](https://htmlpreview.github.io/?https://github.com/tufourn/corne-choc-xiao/blob/main/bom/ibom.html)
+* Interactive bill of materials: [iBOM](https://htmlpreview.github.io/?https://github.com/tufourn/corne-choc-xiao/blob/hotswap/bom/ibom.html)
 
 ## PCB
 
